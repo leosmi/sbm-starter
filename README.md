@@ -1,3 +1,7 @@
+<div id="top"></div>
+
+<span align="center">
+
 # SBM STARTER
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -7,7 +11,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div id="top"></div>
+<h2>By <a href="https://www.linkedin.com/in/manrriquezs/">@Manrriquez</a></h2>
+<br>
+</span>
 
 Um Template inicial baseado em projetos [Scalable and Modular Architecture for CSS](http://smacss.com/) (SMACSS), [Blocks, Elements and Modifiers](http://getbem.com/introduction/) (BEMCSS) e [Syntactically Awesome Style Sheets](https://sass-lang.com/) (SASS). Não importa o tamanho do seu projeto, esse padrão de organização combinado com o BEM pode facilitar e agilizar ainda mais o desenvolvimento
 e manutenção do seu código. 
